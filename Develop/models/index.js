@@ -1,4 +1,3 @@
-// Develop/models/index.js
 
 // import models
 const Product = require('./Product');
